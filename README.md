@@ -1,7 +1,7 @@
  
 
 # 💫 About Me:
-🔭 I’m currently working at Branta<br><br>🌱 I’m currently learning Problem Solving<br><br>💬 Ask me about react, nextjs, nodejs, expressjs<br><br>📫 How to reach me abuhosainmin@gmail.com<br><br>⚡ Every bug is an opportunity to learn and grow! 🐛✨  
+🔭 Founder and CEO of NeexG<br><br>🌱 I’m currently learning Problem Solving<br><br>💬 Ask me about react, nextjs, nodejs, expressjs<br><br>📫 How to reach me abuhosainmin@gmail.com<br><br>⚡ Every bug is an opportunity to learn and grow! 🐛✨  
 
 
 ## 🌐 Socials:
